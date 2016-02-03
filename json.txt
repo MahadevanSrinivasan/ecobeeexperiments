@@ -1,0 +1,11 @@
+{
+  "selection": {
+    "selectionType":"registered",
+    "selectionMatch":""
+  },
+  "thermostat": {
+    "settings":{
+      "hvacMode":"off"
+    }
+  }
+} 
